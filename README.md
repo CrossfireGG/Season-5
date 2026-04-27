@@ -32,7 +32,7 @@ CrossfireGG operates as an open-registration Tier-2 structured competition. **Se
 - **Teams:** 32 Teams
 - **Entry Fee:** $150 per team
 - **Payment:** Due immediately after registration submission via [PayPal](https://www.paypal.com/ncp/payment/6WWNTPRD68K5W)
-- **Prize Pool:** $5,000 USD (1st: TBD | 2nd: TBD | 3rd: TBD)
+- **Prize Pool:** $5,000 USD (1st: $3000 | 2nd: $1500 | 3rd: $500)
 
 ---
 
