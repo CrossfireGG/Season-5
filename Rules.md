@@ -142,9 +142,9 @@
 * 2.1.1 **Tournament Type:** Tier 2, VRS Certified, structured in alignment with Valve Regional Standings (VRS) competitive integrity guidelines
 * 2.1.2 **Total Teams:** 32
 * 2.1.3 **Prize Pool:** $5,000 USD
-  * 1st Place: $3000
-  * 2nd Place: $1500
-  * 3rd Place: $500
+  * 1st Place: $3000 USD
+  * 2nd Place: $1500 USD
+  * 3rd Place: $500 USD
 * 2.1.4 **Platform:** All matches hosted on FACEIT
 * 2.1.5 **Server Region:** North America (United States)
 * 2.1.6 Any rule updates will be publicly documented with version history and will apply equally to all participants.
@@ -407,9 +407,9 @@
 ### 9.1 Prize Pool
 
 * 9.1.1 Total prize pool: **$5,000 USD**
-  * 🥇 1st Place: $3000
-  * 🥈 2nd Place: $1500
-  * 🥉 3rd Place: $500
+  * 🥇 1st Place: $3000 USD
+  * 🥈 2nd Place: $1500 USD
+  * 🥉 3rd Place: $500 USD
 
 ### 9.2 Prize Distribution
 
