@@ -9,7 +9,7 @@
 
 - **Registration:** [Register Your Team](https://forms.gle/yThCP1swbPepPYZx7)
 - **Payment (Due immediately after registration):** [PayPal Checkout](https://www.paypal.com/ncp/payment/6WWNTPRD68K5W)
-- **Season 5 Registraion Tracker:** [Live Signup Tracker]([https://forms.gle/yThCP1swbPepPYZx7](https://docs.google.com/spreadsheets/d/1ImKbO7W0yieecN4KKrEH4hHQELOZA7uLP4ka-JgLhtg/edit?usp=sharing))
+- **Season 5 Registraion Tracker:** [Live Signup Tracker]([https://www.paypal.com/ncp/payment/6WWNTPRD68K5W](https://docs.google.com/spreadsheets/d/1ImKbO7W0yieecN4KKrEH4hHQELOZA7uLP4ka-JgLhtg/edit?usp=sharing))
 - **Discord:** [discord.gg/PczPADKPvf](https://discord.gg/PczPADKPvf)
 - **Twitter (X):** [@PlayCrossFireGG](https://x.com/PlayCrossFireGG)
 - **Twitch:** [PlayCrossFire](https://www.twitch.tv/PlayCrossFire)
