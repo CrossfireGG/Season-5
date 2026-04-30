@@ -179,7 +179,7 @@
 
 ### 2.4 Seeding and VRS
 
-* 2.4.1 Seeding based on **May 2nd, 2026 VRS Leaderboard**.
+* 2.4.1 Seeding based on **May 4th, 2026 VRS Leaderboard**.
 * 2.4.2 **Seeding Priority:**
   1. Teams with Valve Regional Standings (VRS) rank seeded first by VRS ranking
   2. Remaining teams seeded by ESEA League Division and Win/Loss record
