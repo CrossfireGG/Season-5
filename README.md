@@ -45,7 +45,7 @@ All teams must maintain a consistent Team Core (3 players) for competitive integ
 
 ### VRS Teams
 
-- Must maintain at least three (3) players from the official VRS snapshot roster (May 2, 2026) at all times
+- Must maintain at least three (3) players from the official VRS snapshot roster (May 4, 2026) at all times
 - Changing one or two players does not affect VRS eligibility
 - Falling below three snapshot players results in immediate disqualification to preserve VRS integrity
 
@@ -136,7 +136,7 @@ This ensures each group contains a mix of skill levels and prevents stacking.
 
 ### VRS Seeding Priority
 
-Teams are seeded based on their standing in the **May 2, 2026 VRS Leaderboard**:
+Teams are seeded based on their standing in the **, 2026 VRS Leaderboard**:
 
 1. **VRS-ranked teams** receive seeding priority based on their most recent VRS rank (seeding priority does NOT mean invitation status)
 2. **Non-VRS teams** are seeded by ESEA League Division and Win/Loss record
@@ -156,7 +156,8 @@ Teams are seeded based on their standing in the **May 2, 2026 VRS Leaderboard**:
 
 | Date | Milestone |
 |------|-----------|
-| **May 2, 2026** | VRS Snapshot Taken |
+| **May 4, 2026** | VRS Snapshot Taken |
+| **May 5, 2026** | Sign ups Open |
 | **Pre-June 1, 2026** | Group Assignments Revealed |
 | **June 1, 2026** | Group Stage Begins (Round 1) |
 | **June 12, 2026** | Group Stage Round 3 Ends |
@@ -239,7 +240,7 @@ Teams are seeded based on their standing in the **May 2, 2026 VRS Leaderboard**:
 ### Seeding / VRS
 
 - **Season 4:** Used a fixed VRS date (Feb 2)
-- **Season 5:** Using May 2nd VRS date
+- **Season 5:** Using May 4th VRS date
 
 ### Competitive Rule Updates
 
