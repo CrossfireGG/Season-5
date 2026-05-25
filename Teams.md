@@ -4,23 +4,49 @@
 
 Teams ranked according to the **May 2nd, 2026 VRS Leaderboard**:
 
-| Seed | VRS Rank | Points | Team Name | Status |
-|------|----------|--------|-----------|--------|
-| TBD  | TBD      | TBD    | TBD       | TBD    |
-
-*Teams will be added as they register and the May 2nd, 2026 VRS snapshot is applied.*
+| Seed | VRS Rank | Team Name      | VRS Name  |
+|------|----------|----------------|-----------|
+| 1    | 33       | regain         |           |
+| 2    | 38       | Iowa Stormboar | InControl |
+| 3    | 58       | Wanted Goons   |           |
+| 4    | 80       | Villainous     | mouse     |
+| 5    | 90       | FRZ Unit       | FRZ       |
+| 6    | 91       | Beyond Limits  |           |
+| 7    | 92       | Zealous        |           |
 
 ---
 
 ## Non-VRS Seeded Teams
 
-The following teams will be seeded after the VRS snapshot has been applied:
+The following teams are seeded based on ESEA League Division and Win/Loss record:
 
-| Seed | Team Name |
-|------|-----------|
-| TBD  | TBD       |
-
-*Teams will be added as they register.*
+| Seed | Team Name             | ESEA League  | Record |
+|------|-----------------------|--------------|--------|
+| 8    | CLUB 333              | Advanced     | 12-2   |
+| 9    | raisedbypixels        | Advanced     | 10-4   |
+| 10   | Olympus               | Advanced     | 8-6    |
+| 11   | DETONATE              | Advanced     | 8-6    |
+| 12   | NineFly Esports       | Advanced     | 8-6    |
+| 13   | Holly Molly           | Advanced     | 7-7    |
+| 14   | Celestial Esports     | Advanced     | 7-6    |
+| 15   | Sleepless Gaming      | Advanced     | 6-8    |
+| 16   | Outfit49              | Advanced     | 6-6    |
+| 17   | Overtake Sector       | Main         | 13-1   |
+| 18   | Team Fathom Gaming    | Main         | 11-3   |
+| 19   | AfterImage            | Main         | 9-5    |
+| 20   | my life be like       | Main         | 9-5    |
+| 21   | Noctus Esports        | Main         | 8-6    |
+| 22   | Aura                  | Main         | 7-7    |
+| 23   | Team Factor           | Main         | 6-8    |
+| 24   | TenToesDown           | Intermediate | 11-3   |
+| 25   | Exnitas               | Intermediate | 9-5    |
+| 26   | It's a Secret         | Open 9-10    | 14-0   |
+| 27   | Festina Lente         | Open 9-10    | 12-2   |
+| 28   | UltimateDarklordWizardz | Open 9-10  | 9-5    |
+| 29   | Moniseum              | Open 9-10    | 9-5    |
+| 30   | AUE ONE               | Open 1-8     | 7-7    |
+| 31   | THIRD PRIME           | Fresh Team   |        |
+| 32   | New Legends           | Fresh Team   |        |
 
 ---
 
@@ -34,12 +60,12 @@ The following teams will be seeded after the VRS snapshot has been applied:
 
 ### Non-VRS Teams
 
-- Non-VRS team seeding will be completed after the VRS snapshot has been applied
-- Remaining teams will be seeded based on ESEA League Division and Win/Loss record
+- Non-VRS team seeding was completed after the VRS snapshot was applied
+- Remaining teams were seeded based on ESEA League Division and Win/Loss record
 
 ### Tournament Lock Notice
 
-To ensure **fair play and competitive integrity** for all participants, seeding will be finalized prior to Round 1, after which no further seeding or team changes will be made.
+To ensure **fair play and competitive integrity** for all participants, seeding has been finalized prior to Round 1, after which no further seeding or team changes will be made.
 
 ---
 
@@ -49,79 +75,77 @@ To ensure **fair play and competitive integrity** for all participants, seeding 
 
 ### Group Assignments
 
-**Groups Announced:** TBD
-
 #### **Group A**
 
-| Team | League/Points | Seed |
-|------|---------------|------|
-| TBD  | TBD           | 1    |
-| TBD  | TBD           | 16   |
-| TBD  | TBD           | 24   |
-| TBD  | TBD           | 32   |
+| Team            | League/Points | Seed |
+|-----------------|---------------|------|
+| regain          | VRS #33       | 1    |
+| Outfit49        | Advanced      | 16   |
+| Overtake Sector | Main          | 17   |
+| New Legends     | Fresh Team    | 32   |
 
 #### **Group B**
 
-| Team | League/Points | Seed |
-|------|---------------|------|
-| TBD  | TBD           | 2    |
-| TBD  | TBD           | 15   |
-| TBD  | TBD           | 23   |
-| TBD  | TBD           | 31   |
+| Team               | League/Points | Seed |
+|--------------------|---------------|------|
+| Iowa Stormboar     | VRS #38       | 2    |
+| Sleepless Gaming   | Advanced      | 15   |
+| Team Fathom Gaming | Main          | 18   |
+| THIRD PRIME        | Fresh Team    | 31   |
 
 #### **Group C**
 
-| Team | League/Points | Seed |
-|------|---------------|------|
-| TBD  | TBD           | 3    |
-| TBD  | TBD           | 14   |
-| TBD  | TBD           | 22   |
-| TBD  | TBD           | 30   |
+| Team              | League/Points | Seed |
+|-------------------|---------------|------|
+| Wanted Goons      | VRS #58       | 3    |
+| Celestial Esports | Advanced      | 14   |
+| AfterImage        | Main          | 19   |
+| AUE ONE           | Open 1-8      | 30   |
 
 #### **Group D**
 
-| Team | League/Points | Seed |
-|------|---------------|------|
-| TBD  | TBD           | 4    |
-| TBD  | TBD           | 13   |
-| TBD  | TBD           | 21   |
-| TBD  | TBD           | 29   |
+| Team            | League/Points | Seed |
+|-----------------|---------------|------|
+| Villainous      | VRS #80       | 4    |
+| Holly Molly     | Advanced      | 13   |
+| my life be like | Main          | 20   |
+| Moniseum        | Open 9-10     | 29   |
 
 #### **Group E**
 
-| Team | League/Points | Seed |
-|------|---------------|------|
-| TBD  | TBD           | 5    |
-| TBD  | TBD           | 12   |
-| TBD  | TBD           | 20   |
-| TBD  | TBD           | 28   |
+| Team                    | League/Points | Seed |
+|-------------------------|---------------|------|
+| FRZ Unit                | VRS #90       | 5    |
+| NineFly Esports         | Advanced      | 12   |
+| Noctus Esports          | Main          | 21   |
+| UltimateDarklordWizardz | Open 9-10     | 28   |
 
 #### **Group F**
 
-| Team | League/Points | Seed |
-|------|---------------|------|
-| TBD  | TBD           | 6    |
-| TBD  | TBD           | 11   |
-| TBD  | TBD           | 19   |
-| TBD  | TBD           | 27   |
+| Team          | League/Points | Seed |
+|---------------|---------------|------|
+| Beyond Limits | VRS #91       | 6    |
+| DETONATE      | Advanced      | 11   |
+| Aura          | Main          | 22   |
+| Festina Lente | Open 9-10     | 27   |
 
 #### **Group G**
 
-| Team | League/Points | Seed |
-|------|---------------|------|
-| TBD  | TBD           | 7    |
-| TBD  | TBD           | 10   |
-| TBD  | TBD           | 18   |
-| TBD  | TBD           | 26   |
+| Team          | League/Points | Seed |
+|---------------|---------------|------|
+| Zealous       | VRS #92       | 7    |
+| Olympus       | Advanced      | 10   |
+| Team Factor   | Main          | 23   |
+| It's a Secret | Open 9-10     | 26   |
 
 #### **Group H**
 
-| Team | League/Points | Seed |
-|------|---------------|------|
-| TBD  | TBD           | 8    |
-| TBD  | TBD           | 9    |
-| TBD  | TBD           | 17   |
-| TBD  | TBD           | 25   |
+| Team           | League/Points | Seed |
+|----------------|---------------|------|
+| CLUB 333       | Advanced      | 8    |
+| raisedbypixels | Advanced      | 9    |
+| TenToesDown    | Intermediate  | 24   |
+| Exnitas        | Intermediate  | 25   |
 
 **Seeding Method:**
 
@@ -155,7 +179,15 @@ This ensures balanced groups with mixed skill levels.
 
 ## VRS Teams - Detailed Rankings
 
-*Detailed VRS rankings will be populated after the May 2nd, 2026 VRS snapshot has been applied and teams have registered.*
+| Seed | VRS Rank | Team Name      | VRS Name  |
+|------|----------|----------------|-----------|
+| 1    | 33       | regain         |           |
+| 2    | 38       | Iowa Stormboar | InControl |
+| 3    | 58       | Wanted Goons   |           |
+| 4    | 80       | Villainous     | mouse     |
+| 5    | 90       | FRZ Unit       | FRZ       |
+| 6    | 91       | Beyond Limits  |           |
+| 7    | 92       | Zealous        |           |
 
 ---
 
@@ -196,4 +228,4 @@ For the latest team roster updates, changes, or withdrawals:
 
 © Crossfire Network LLC 2026 All Rights Reserved
 
-*Last Updated: April 26, 2026*
+*Last Updated: May 25, 2026*
