@@ -204,7 +204,7 @@ Teams are seeded based on their standing in the **, 2026 VRS Leaderboard**:
 
 ### Tournament Administration
 
-- **Primary Rulebook:** Posted as a PDF in the Discord under `⁠CROSSFIRE⁠📖┃season-5-info`
+- **Primary Rulebook:** Found on github under Rules.md
 - Tournament administration retains final authority on disputes
 - Admin decisions are **final and confidential**
 - CrossfireGG reserves the right to adjudicate on any issue not explicitly addressed by the rules
