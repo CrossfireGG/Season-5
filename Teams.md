@@ -20,33 +20,33 @@ Teams ranked according to the **May 2nd, 2026 VRS Leaderboard**:
 
 The following teams are seeded based on ESEA League Division and Win/Loss record:
 
-| Seed | Team Name             | ESEA League  | Record |
-|------|-----------------------|--------------|--------|
-| 8    | CLUB 333              | Advanced     | 12-2   |
-| 9    | raisedbypixels        | Advanced     | 10-4   |
-| 10   | Olympus               | Advanced     | 8-6    |
-| 11   | DETONATE              | Advanced     | 8-6    |
-| 12   | NineFly Esports       | Advanced     | 8-6    |
-| 13   | Holly Molly           | Advanced     | 7-7    |
-| 14   | Celestial Esports     | Advanced     | 7-6    |
-| 15   | Sleepless Gaming      | Advanced     | 6-8    |
-| 16   | Outfit49              | Advanced     | 6-6    |
-| 17   | Overtake Sector       | Main         | 13-1   |
-| 18   | Team Fathom Gaming    | Main         | 11-3   |
-| 19   | AfterImage            | Main         | 9-5    |
-| 20   | my life be like       | Main         | 9-5    |
-| 21   | Noctus Esports        | Main         | 8-6    |
-| 22   | Aura                  | Main         | 7-7    |
-| 23   | Team Factor           | Main         | 6-8    |
-| 24   | TenToesDown           | Intermediate | 11-3   |
-| 25   | Exnitas               | Intermediate | 9-5    |
-| 26   | It's a Secret         | Open 9-10    | 14-0   |
-| 27   | Festina Lente         | Open 9-10    | 12-2   |
-| 28   | UltimateDarklordWizardz | Open 9-10  | 9-5    |
-| 29   | Moniseum              | Open 9-10    | 9-5    |
-| 30   | AUE ONE               | Open 1-8     | 7-7    |
-| 31   | THIRD PRIME           | Fresh Team   |        |
-| 32   | New Legends           | Fresh Team   |        |
+| Seed | Team Name               |
+|------|-------------------------|
+| 8    | CLUB 333                |
+| 9    | raisedbypixels          |
+| 10   | Olympus                 |
+| 11   | DETONATE                |
+| 12   | NineFly Esports         |
+| 13   | Holly Molly             |
+| 14   | Celestial Esports       |
+| 15   | Sleepless Gaming        |
+| 16   | Outfit49                |
+| 17   | Overtake Sector         |
+| 18   | Team Fathom Gaming      |
+| 19   | AfterImage              |
+| 20   | my life be like         |
+| 21   | Noctus Esports          |
+| 22   | Aura                    |
+| 23   | Team Factor             |
+| 24   | TenToesDown             |
+| 25   | Exnitas                 |
+| 26   | It's a Secret           |
+| 27   | Festina Lente           |
+| 28   | UltimateDarklordWizardz |
+| 29   | Moniseum                |
+| 30   | AUE ONE                 |
+| 31   | THIRD PRIME             |
+| 32   | New Legends             |
 
 ---
 
